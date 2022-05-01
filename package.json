@@ -1,7 +1,13 @@
 {
   "dependencies": {
+    "async": "^3.2.3",
+    "colors": "^1.4.0",
+    "config": "^3.3.7",
     "console.table": "^0.10.0",
+    "dotenv": "^16.0.0",
     "inquirer": "^8.2.4",
-    "mysql2": "^2.3.3"
+    "logo": "^0.2.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.19.0"
   }
 }
