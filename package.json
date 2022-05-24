@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "asciiart-logo": "^0.2.6",
     "async": "^3.2.3",
     "colors": "^1.4.0",
     "config": "^3.3.7",
